@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Bartender Application", "MVC Bartender Application\MVC Bartender Application.csproj", "{7043A26B-F771-4761-B4C5-F37F7A697745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7043A26B-F771-4761-B4C5-F37F7A697745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7043A26B-F771-4761-B4C5-F37F7A697745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7043A26B-F771-4761-B4C5-F37F7A697745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7043A26B-F771-4761-B4C5-F37F7A697745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0A2953-39EA-4C7C-ABF3-014CD46F4876}
+	EndGlobalSection
+EndGlobal
